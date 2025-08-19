@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-biodata-tsx",
-    "path": "/biodata/",
+    "componentChunkName": "component---src-pages-info-tsx",
+    "path": "/info/",
     "result": {"pageContext":{}},
     "staticQueryHashes": ["1286929782","874498705"]}
